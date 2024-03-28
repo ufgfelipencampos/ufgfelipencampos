@@ -6,8 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Coto-nete&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Coto-nete&locale=en&hide_title=false&layout=compact&card_width=280&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
+<h1></h1>
 
 ###
 
@@ -31,7 +30,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
 </div>
 
+<div align="left">
+<h3 align="left">I'm better with :
+
+  <img padx="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="20" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20" alt="pandas logo"  />
+</div>
+
 ###
+<h1></h1>
 
 <div align="left">
   <a href="https://www.instagram.com/fnunes_c/?hl=pt" target="_blank">
@@ -52,34 +62,25 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://66.media.tumblr.com/861d6dfb79332a158192ac8b49e246d2/tumblr_pris9usDAM1vln3lt_540.gif"  />
+<img align="right" height="380" src="https://66.media.tumblr.com/861d6dfb79332a158192ac8b49e246d2/tumblr_pris9usDAM1vln3lt_540.gif"  />
 
 ###
 
-<h3 align="left">I'm better with :</h3>
-
-
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-</div>
-
-
-###
 
 <div align="left">
   <a href="https://open.spotify.com/user/xz0dnlfhx4tcibgjncf9fjpaq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xz0dnlfhx4tcibgjncf9fjpaq&count=5&unique=true" alt="Spotify recently played"  />
+    <img height="400" allign="left" src="https://spotify-recently-played-readme.vercel.app/api?user=xz0dnlfhx4tcibgjncf9fjpaq&count=5&unique=true" alt="Spotify recently played"  />
+    <br clear="both">
+
+<img align="right" height="380" src="https://66.media.tumblr.com/861d6dfb79332a158192ac8b49e246d2/tumblr_pris9usDAM1vln3lt_540.gif"  />
+
   </a>
 </div
 
 ###
 
+<h1></h1>
+      
 <div align="center">
   <img src="https://profile-counter.glitch.me/Coto-nete/count.svg?"  />
 </div>
