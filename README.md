@@ -103,15 +103,10 @@
 
 <div>
   
-<br clear="both">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<br>
 
 <img align="right" height="300" src="https://66.media.tumblr.com/861d6dfb79332a158192ac8b49e246d2/tumblr_pris9usDAM1vln3lt_540.gif"  />
+
 
 ###
 
@@ -124,7 +119,8 @@
 
 
   </a>
-</div
+  </br>
+</div>
 
 ###
 
