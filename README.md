@@ -9,6 +9,8 @@
 
 ###
 
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -57,6 +59,8 @@
 <h3 align="left">I'm better with :</h3>
 
 
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -65,13 +69,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
+
 ###
 
 <div align="left">
   <a href="https://open.spotify.com/user/xz0dnlfhx4tcibgjncf9fjpaq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=xz0dnlfhx4tcibgjncf9fjpaq&count=5&unique=true" alt="Spotify recently played"  />
   </a>
-</div>
+</div
 
 ###
 
