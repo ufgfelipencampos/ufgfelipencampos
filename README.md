@@ -60,6 +60,8 @@
 
 ###
 
+<div>
+  
 <br clear="both">
 
 <img align="right" height="300" src="https://66.media.tumblr.com/861d6dfb79332a158192ac8b49e246d2/tumblr_pris9usDAM1vln3lt_540.gif"  />
@@ -67,12 +69,12 @@
 ###
 
 
-<div align="left">
-  <a href="https://open.spotify.com/user/xz0dnlfhx4tcibgjncf9fjpaq">
+
+  <a alling="left" href="https://open.spotify.com/user/xz0dnlfhx4tcibgjncf9fjpaq">
     <img height="300" allign="left" src="https://spotify-recently-played-readme.vercel.app/api?user=xz0dnlfhx4tcibgjncf9fjpaq&count=5&unique=true" alt="Spotify recently played"  />
     <br clear="both">
 
-<img align="right" height="300" src="https://66.media.tumblr.com/861d6dfb79332a158192ac8b49e246d2/tumblr_pris9usDAM1vln3lt_540.gif"  />
+
 
   </a>
 </div
