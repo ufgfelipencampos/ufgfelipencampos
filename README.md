@@ -33,8 +33,8 @@
 <div align="left">
 <h3 align="left">I'm better with :
 
-  <img padx="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
-  <img width="12" />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
+  <img width="12" left="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="20" alt="selenium logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20" alt="pandas logo"  />
@@ -44,7 +44,7 @@
 <h1></h1>
 
 <div align="left">
-  <a padding=100" href="https://www.instagram.com/fnunes_c/?hl=pt" target="_blank">
+  <a border="100" href="https://www.instagram.com/fnunes_c/?hl=pt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:felipe.n.cmp@gmail.com" target="_blank">
