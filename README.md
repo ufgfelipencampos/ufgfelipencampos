@@ -44,7 +44,7 @@
 <h1></h1>
 
 <div align="left">
-  <a href="https://www.instagram.com/fnunes_c/?hl=pt" target="_blank">
+  <a padding=100" href="https://www.instagram.com/fnunes_c/?hl=pt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:felipe.n.cmp@gmail.com" target="_blank">
