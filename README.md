@@ -117,7 +117,7 @@
 
 
   <a alling="left" href="https://open.spotify.com/user/xz0dnlfhx4tcibgjncf9fjpaq">
-    <img height="300" allign="left" src="https://spotify-recently-played-readme.vercel.app/api?user=xz0dnlfhx4tcibgjncf9fjpaq&count=5&unique=true" alt="Spotify recently played"  />
+    <img height="350" allign="left" src="https://spotify-recently-played-readme.vercel.app/api?user=xz0dnlfhx4tcibgjncf9fjpaq&count=5&unique=true" alt="Spotify recently played"  />
     <br clear="both">
 
 
