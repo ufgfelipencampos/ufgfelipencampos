@@ -1,15 +1,10 @@
 <h2 align="left">Hi 👋! My name is Felipe and I'm a 18, from Brasil.</h2>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coto-nete&locate=en&card_width=400&show_icons=true&theme=tokyonight" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coto-nete&theme=tokyonight&layout=donut"  />
-</div>
-<h1></h1>
 
-###
+
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -31,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
   <img src="https://th.bing.com/th/id/OIP.afBPcjdzHdCgIWXvNFePxQHaCy?rs=1&pid=ImgDetMain" height="20" alt="golang logo"/>
 </div>
+
+<hr/>
 
 <div align="left">
 <h3 align="left">I'm better with :
