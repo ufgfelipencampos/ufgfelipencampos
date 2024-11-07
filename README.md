@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img src="https://th.bing.com/th/id/OIP.afBPcjdzHdCgIWXvNFePxQHaCy?rs=1&pid=ImgDetMain" height="20" alt="golang logo"/>
+  <img src="https://th.bing.com/th?id=ODLS.a13d4800-9f35-4b99-9915-f20b4ad08357&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" height="20" alt="golang logo"/>
 </div>
 
 <hr/>
@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="20" alt="selenium logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20" alt="pandas logo"  />
-  <img src="https://th.bing.com/th/id/OIP.afBPcjdzHdCgIWXvNFePxQHaCy?rs=1&pid=ImgDetMain" height="20" alt="golang logo"/>
+  <img src="https://th.bing.com/th?id=ODLS.a13d4800-9f35-4b99-9915-f20b4ad08357&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2n" height="20" alt="golang logo"/>
 </div>
 
 ###
