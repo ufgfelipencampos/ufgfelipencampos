@@ -131,10 +131,6 @@
 ###
 
 <h1></h1>
-      
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ufgfelipencampos/count.svg?"  />
-</div>
 
 ###
 
